@@ -1,0 +1,10 @@
+pandas>=1.5.0
+numpy>=1.23.0
+matplotlib>=3.6.0
+seaborn>=0.12.0
+regex>=2022.10.31
+sastrawi>=1.0.0
+nltk>=3.7
+wordcloud>=1.8.0
+scikit-learn>=1.1.0
+deap>=1.3.0
