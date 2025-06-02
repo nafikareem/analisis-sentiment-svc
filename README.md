@@ -7,10 +7,11 @@ Proyek ini melakukan analisis sentimen pada ulasan pengguna aplikasi Gojek mengg
 1. **Clone repository**  
    Jalankan perintah berikut di terminal:
    ```
-   git clone <repo-url>
+   git clone [<repo-url>](https://github.com/nafikareem/analisis-sentiment-svc)
    cd sentiment
    ```
 2. **Install dependecies**
+
    Disarankan menggunakan virtual environment.
    ```
     pip install -r requirements.txt
